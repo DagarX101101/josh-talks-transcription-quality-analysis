@@ -1,0 +1,5 @@
+signal_name,flagged_tasks,percentage_of_all_tasks
+flag_blank_submission,1019,1.97
+flag_extreme_low_ter,517,1.0
+flag_ter_below_1,5939,11.47
+flag_extreme_cps,457,0.88

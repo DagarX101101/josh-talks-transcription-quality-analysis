@@ -1,0 +1,4 @@
+user_id,total_tasks,blank_tasks,blank_eligible_tasks,extreme_ter_tasks,ter_below_1_tasks,ter_eligible_tasks,high_cps_tasks,cps_eligible_tasks,blank_rate,extreme_ter_rate,ter_below_1_rate,high_cps_rate,blank_signal,extreme_ter_signal,high_cps_signal,ter_below_1_signal,warning_signal_count,block_candidate,candidate_reason
+580062,609,7,314,0,164,387,0,233,2.229299363057325,0.0,42.377260981912144,0.0,True,False,False,True,2,True,"High blank rate, High TER<1 rate"
+632098,165,2,90,0,54,104,0,73,2.2222222222222223,0.0,51.92307692307693,0.0,True,False,False,True,2,True,"High blank rate, High TER<1 rate"
+326611,149,2,61,0,35,86,0,54,3.278688524590164,0.0,40.69767441860465,0.0,True,False,False,True,2,True,"High blank rate, High TER<1 rate"
